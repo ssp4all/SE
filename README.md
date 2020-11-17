@@ -80,6 +80,7 @@ Below you can find the responses of the 8 participants.
 | *Figure 1* |
 Figure 1 indicates that the candidates were kinda aware of stock market which makes evaluation much easier.
 
+## Analysis
 ### Analyzing the Recommendation Ratings.
 After using all 3 platforms for predicting stock trends, we asked the users how likely are they to recommend each of the apps. This metric helps us understand the overall perception of the user. Following are the results:
 
