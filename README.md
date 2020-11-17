@@ -128,7 +128,7 @@ Although our platform has mixed reviews, the average rating bar chart shown abov
 
 | ![Figure 9](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/5.PNG) | 
 |:--:| 
-| *Recommnedation* |
+| *Recommendation* |
 
 ### Analysis for Wallet Inversor
 
@@ -148,10 +148,26 @@ Although our platform has mixed reviews, the average rating bar chart shown abov
 
 | ![Figure 13](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/9.PNG) | 
 |:--:| 
-| *Recommnedation* |
+| *Recommendation* |
 
 ### Analysis for Stock Predictor
+| ![Figure 14](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/10.PNG) | 
+|:--:| 
+| *Ease of use* |
 
+
+| ![Figure 15](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/11.PNG) | 
+|:--:| 
+| *Accuracy* |
+
+
+| ![Figure 16](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/12.PNG) | 
+|:--:| 
+| *Satisfaction* |
+
+| ![Figure 17](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/13.PNG) | 
+|:--:| 
+| *Recommendation* |
 
 ### Correlation between parameters. 
 Looking at the responses of the google form that were used during the experiment with lab rats, and performing some analysis, we were able to calculate correlation between "How likely an app would be recommended to a friend ?" and 3 other parameters. 
