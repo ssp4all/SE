@@ -85,19 +85,19 @@ After using all 3 platforms for predicting stock trends, we asked the users how 
 
 | ![Figure 2](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/Ai_Stock_finder.png) | 
 |:--:| 
-| *Figure 2* |
+| *Recommendation rating for AI Stock Finder* |
 
 | ![Figure 3](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/Wallet_investor.png) | 
 |:--:| 
-| *Figure 3* |
+| *Recommendation rating for Wallet Investor* |
 
 | ![Figure 4](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/Stock_prediction.png) | 
 |:--:| 
-| *Figure 4* |
+| *Recommendation rating for Stock Predictor* |
 
 | ![Figure 5](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/avg_score.png) | 
 |:--:| 
-| *Figure 5* |
+| *Comparison of average rating between the 3 platforms* |
 
 Looking at the responses of the google form that were used during the experiment with lab rats, and performing some analysis, we were able to calculate correlation between "How likely an app would be recommended to a friend ?" and 3 other parameters. 
 
