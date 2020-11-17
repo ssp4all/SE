@@ -88,16 +88,16 @@ Below you can find the responses of the 8 participants.
 
 | ![Figure 3](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/3.PNG) | 
 |:--:| 
-| *Figure 3: Accuracy - More than half testers found application accurate* |
+| *Figure 3: Accuracy - More than half of the testers found application accurate* |
 
 
 | ![Figure 4](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/4.PNG) | 
 |:--:| 
-| *Figure 4: Satisfaction - The use mostly saw stocks for popular companies * |
+| *Figure 4: Satisfaction - The users mostly saw stocks for popular companies * |
 
 | ![Figure 5](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/5.PNG) | 
 |:--:| 
-| *Figure 5: Recommendation - Use likely to recommend this application* |
+| *Figure 5: Recommendation - Users likely to recommend this application* |
 From above graph, it can seen that testers liked AI Stock Finder application which has average score of 3.5.
 ### These are the feelings about for Wallet Investor
 
@@ -108,16 +108,16 @@ From above graph, it can seen that testers liked AI Stock Finder application whi
 
 | ![Figure 7](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/7.PNG) | 
 |:--:| 
-| *Figure 7: Accuracy - More sophisatication comes with accuracy, fair enough i guess* |
+| *Figure 7: Accuracy - More sophisatication comes with accuracy* |
 
 
 | ![Figure 8](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/8.PNG) | 
 |:--:| 
-| *Figre 8: Satisfaction - Again tester went for popular company's stocks* |
+| *Figre 8: Satisfaction - Again testers went for popular company's stocks* |
 
 | ![Figure 9](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/9.PNG) | 
 |:--:| 
-| *Figure 9: Recommendation - Use are less likey recommend this app over AI Stock App* |
+| *Figure 9: Recommendation - Users are less likey to recommend this app over AI Stock App* |
 Wallet Investor has average score of 3.5.
 
 From the above ratings of market solutions: **AI Stock Finder** and **Wallet Investor**, you can see that all ratings are in the range of 3-5 indicating no critical reviews. This is expected as these are market solutions specifically made to cater the needs of user. 
@@ -135,11 +135,11 @@ From the above ratings of market solutions: **AI Stock Finder** and **Wallet Inv
 
 | ![Figure 12](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/12.PNG) | 
 |:--:| 
-| *Figure 12: Satisfaction - Again testes chose popular companies* |
+| *Figure 12: Satisfaction - Again testers chose popular companies* |
 
 | ![Figure 13](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/13.PNG) | 
 |:--:| 
-| *Figure 13: Recommendation - Less likely to get recommendation over existing Stock predictorsa* |
+| *Figure 13: Recommendation - Less likely to get recommendation over existing stock predictors* |
 Stock predictor developed by received avg score of 3 and median of 4 with one score of 1 and total 4 score of 4.
 
 The ratings for Stock Predictor show mixed reviews. 3 ratings are in the range of 1-2, that comprises of 37.5% of the experiment reviewer pool while the rest 62.5% were inclinded to use this application with a rating bracket of 4-5. This can partly be attributed to the ease of use of our platform. Users are less inclined to use a platform if they have difficulty navigating the platform intuitively. As we can see from the Ease of use Pie chart for Stock Predictor, only 37.5% found it easy to use while it 50% for AI Stock finder. This implies that we still have more scope in improving our platform's frontend and make it more user friendly.
@@ -173,7 +173,7 @@ For walletInvestor, we can see that there is a significant correlation between "
 |:--:| 
 | *Figure 16 : Correlation matrix for StockGuide* |
 
-In our case - StockGuide, we see a positive correlation between "Satisfaction" and "Recommending". We would obviously need more data to make a more strong statement.  
+In our case - StockGuide, we see a positive correlation between "Satisfaction" and "Recommending". We would obviously need more data to make a more stronger statement.  
 
 Nevertheless, we would be able to assess the contributing factors towards the success of this application using this correlation study.
 
