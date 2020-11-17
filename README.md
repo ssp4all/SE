@@ -20,8 +20,27 @@ TODO
 
 ## How to setup: from cloning to deploying on Heroku
 
-TODO
+1. Clone the [repository we are testing](https://github.com/lokesh45/StockPrediction).
 
+You can do this by typing `git clone https://github.com/lokesh45/StockPrediction`.
+
+2. Change the file `Dockerfile` by replacing the last line from `CMD ["flask", "run", "--host", "0.0.0.0", "--port", "5000"]` to `CMD flask run --host 0.0.0.0 --port ${PORT}`.
+
+3. Make an account on [Heroku](https://signup.heroku.com/login).
+
+4. Install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#download-and-install).
+
+5. Go back the folder where the `StockPrediction` you cloned is located and open a terminal inside it.
+
+>Optional: Install the [docker cli](https://docs.docker.com/get-docker/). Type `docker ps -a`. A list of images will show up.
+
+6. Type `heroku login` in the terminal and it will open a browser for you to login.
+
+7. After logging in, type `heroku create`, followed by `heroku container:push web`. This will take few minutes.
+
+8. For releasing it to the web, type: `heroku container:release web`.
+
+9. Now to open the site you just pushed type `heroku open`.
 ## Materials
 
 TODO: links to scrips, repo, data and forms. Go in more depth about how we conducted our test meetings.
