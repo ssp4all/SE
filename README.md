@@ -85,20 +85,25 @@ After using all 3 platforms for predicting stock trends, we asked the users how 
 
 | ![Figure 2](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/Ai_Stock_finder.png) | 
 |:--:| 
-| *Recommendation rating for AI Stock Finder* |
+| *Recommendation rating for AI Stock Finder* |  
 
 | ![Figure 3](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/Wallet_investor.png) | 
 |:--:| 
-| *Recommendation rating for Wallet Investor* |
+| *Recommendation rating for Wallet Investor* |  
+
+From the above ratings of market solutions: **AI Stock Finder** and **Wallet Investor**, you can see that all ratings are in the range of 3-5 indicating no critical reviews. This is expected as these are market solutions specifically made to cater the needs of user. 
 
 | ![Figure 4](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/Stock_prediction.png) | 
 |:--:| 
-| *Recommendation rating for Stock Predictor* |
+| *Recommendation rating for Stock Predictor* |  
+
+The ratings for Stock Predcitor show mixed reviews. 3 ratings are in the range of 1-2, that comprises of 37.5% of the experiment reviewer pool while the rest 62.5% were inclinded to use this application with a rating bracket of 4-5. This can partly be attributed to the ease of use of our platform. Users are less inclined to use a platform if they have difficulty navigating the platform intuitively. As we can see from the Ease of use Pie chart for Stock Predictor, only 37.5% found it easy to use while it 50% for AI Stock finder. This implies that we still have more scope in improving our platform's frontend and make it more user friendly.
 
 | ![Figure 5](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/avg_score_rating.png) | 
 |:--:| 
 | *Comparison of average rating between the 3 platforms* |
 
+Although our platform has mixed reviews, the average rating bar chart shown above tells otherwise. Our application only falls behind by a little in comparision with the market solutions. 
 
 ### Correlation between parameters. 
 Looking at the responses of the google form that were used during the experiment with lab rats, and performing some analysis, we were able to calculate correlation between "How likely an app would be recommended to a friend ?" and 3 other parameters. 
