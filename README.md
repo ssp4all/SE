@@ -20,9 +20,7 @@ TODO
 
 ## How to setup: from cloning to deploying on Heroku
 
-1. Clone the [repository we are testing](https://github.com/lokesh45/StockPrediction).
-
-You can do this by typing `git clone https://github.com/lokesh45/StockPrediction`.
+1. Clone the [repository we are testing](https://github.com/lokesh45/StockPrediction). You can do this by typing `git clone https://github.com/lokesh45/StockPrediction`.
 
 2. Change the file `Dockerfile` by replacing the last line from `CMD ["flask", "run", "--host", "0.0.0.0", "--port", "5000"]` to `CMD flask run --host 0.0.0.0 --port ${PORT}`.
 
