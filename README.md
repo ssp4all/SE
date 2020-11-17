@@ -112,7 +112,22 @@ According to the findings (as you can see in the table below):
 
 | ![Figure 14](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/14.PNG) | 
 |:--:| 
-| *Figure 14:Correlation between Parameter 1 and Result Parameter* |
+| *Figure 14 : Correlation between Parameter 1 and Result Parameter* |
+
+For aiStockFinder, we can see that there is a very low positive correlation between Satisfication and Recommending. So, we cannot give a statement without having enough data.
+
+| ![Figure 15](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/15.PNG) | 
+|:--:| 
+| *Figure 15 : Correlation between Parameter 2 and Result Parameter* |
+
+For walletInvestor, we can see that there is a significant correlation between "Ease of Use" and Recommending. So, there is a good chance that a person recommends walletInvestor because they find it easy to use. 
+
+| ![Figure 16](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/16.PNG) | 
+|:--:| 
+| *Figure 16 : Correlation between Parameter 3 and Result Parameter* |
+
+In our case, we see a positive correlation between "Satisfaction" and "Recommending". We would obviously need more data to make a more strong statement.
+Nevertheless, we would be able to assess the contributing factors towards the success of this application using this correlation study.
 
 
 ## Conclusion
