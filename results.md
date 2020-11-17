@@ -1,6 +1,6 @@
 ## Method: Test Plan
 
-1. Get around 8 to 10 participants to test three websites: [Wallet Investor](https://walletinvestor.com/), [AIStockFinder](https://www.aistockfinder.com/) and [the app we are testing](https://radiant-falls-10905.herokuapp.com).
+1. Get around 8 to 10 participants to test three websites: [Wallet Investor](https://walletinvestor.com/), [AIStockFinder](https://www.aistockfinder.com/) and [the app we are testing: Stock Guide](https://radiant-falls-10905.herokuapp.com).
 2. Assign keys to each user.
 3. Record the data generated from the participant. Each participant will perform the following activities:
 
