@@ -77,8 +77,8 @@ Below you can find the responses of the 8 participants.
 ### We asked about their familarity of the stock markets.
 | ![Figure 1](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/1.PNG) | 
 |:--:| 
-| *Figure 1* |
-Figure 1 indicates that the candidates were kinda aware of stock market which makes evaluation much easier.
+| *Figure 1: indicates that the candidates were kinda aware of stock market which makes evaluation much easier* |
+
 
 ## Analysis
 ### Analyzing the Recommendation Ratings.
