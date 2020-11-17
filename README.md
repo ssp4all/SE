@@ -14,13 +14,17 @@ This is a repository made as part of the curriculum at NC State for the course C
 
 1. Get around 8 to 10 participants to test three websites: [Wallet Investor](https://walletinvestor.com/), [AIStockFinder](https://www.aistockfinder.com/) and [the app we are testing](https://radiant-falls-10905.herokuapp.com).
 2. Assign keys to each user.
-3. Record the data generated from the participant. Each participant will perform following activities.
-4. Analyse the project based on Ease of use, Accuracy, Cost, Range of choice.
-5. Compare current project with other real-life market solutions available online (for this project, they are Wallet Investor, AIStockFinder)
-6. Report bugs(if found)
-7. Review the project on scale 1(Low) to 5(High).
-8. Utilize the data and analyse the feedback received from each participant. They will be stored using this [google form](https://docs.google.com/forms/d/e/1FAIpQLSfrOcLyx1ZxUexelyc2YJZB9imcJUHoP9oH8zVcHtOkJD-VYQ/viewform).
-9. Generate aggregated rating for the entire project based on Ease of use, Accuracy, Cost, Range of choice.
+3. Record the data generated from the participant. Each participant will perform following activities:
+
+    1. Analyse the project based on Ease of use, Accuracy, Cost, Range of choice.
+
+    2. Compare current project with other real-life market solutions available online (for this project, they are Wallet Investor, AIStockFinder)
+
+    3. Report bugs(if found)
+
+    4. Review the project on scale 1(Low) to 5(High).
+4. Utilize the data and analyse the feedback received from each participant. They will be stored using this [google form](https://docs.google.com/forms/d/e/1FAIpQLSfrOcLyx1ZxUexelyc2YJZB9imcJUHoP9oH8zVcHtOkJD-VYQ/viewform).
+5. Generate aggregated rating for the entire project based on Ease of use, Accuracy, Cost, Range of choice.
 
 ## How to setup: from cloning to deploying on Heroku
 
@@ -61,7 +65,19 @@ Below are the tools used to perform anonymous experiments
 
 ## Observations
 
-TODO: Paste the screenshots and a brief factual introduction of the screenshot
+
+### How people tested the sites
+We told the participants to find stocks on each website and look at their prediction. Meetings were conducted via Zoom, timings of which were decided via communications on Slack or WhatsApp.
+
+They were also told to stay at any website for any amount time, till they feel they were comfortable with the website. Only after that were they advised to fill up the google form. The participants were encouraged to talk about what they are feeling.
+
+We found most of them took around 5 to 10 minutes for the first website and then the time it took for them to test other websites decreased in a linear fashion.
+
+In total there were 9 participants, and we have responses from 8 of them. One of them exercised their Right to Refuse. 
+
+Below you can find the responses of the 8 participants.
+### We asked about their familarity of the stock markets.
+[! Figure 1](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/1.PNG)
 
 ## Analysis
 
