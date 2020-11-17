@@ -189,11 +189,11 @@ If we look at [Figure 1](https://github.com/ssp4all/stock-prediction-evaluation/
 | :------------------------------------------------------------------------------------------: |
 |      _Figure 19: AIStockFinder Ratings of people not familiar with stock market at all_      |
 
-    We see that people who actually are familiar with the stock market rate the product more highly than the others.
+   We see that people who actually are familiar with the stock market rate the product more highly than the others.
 
-    Mean rating with people who are **familiar** with stock market: 3.833
+   Mean rating with people who are **familiar** with stock market: 3.833
 
-    Mean rating with people who are **not familiar** with the stock market: 3
+   Mean rating with people who are **not familiar** with the stock market: 3
 
    #### 2. WalletInvestor
 
@@ -205,11 +205,11 @@ If we look at [Figure 1](https://github.com/ssp4all/stock-prediction-evaluation/
 | :------------------------------------------------------------------------------------------: |
 |     _Figure 21: WalletInvestor Ratings of people not familiar with stock market at all_      |
 
-    Again, we see that people who actually are familiar with the stock market rate the product more highly than the others.
+   Again, we see that people who actually are familiar with the stock market rate the product more highly than the others.
 
-    Mean rating with people who are **familiar** with stock market: 3.833
+   Mean rating with people who are **familiar** with stock market: 3.833
 
-    Mean rating with people who are **not familiar** with the stock market: 3
+   Mean rating with people who are **not familiar** with the stock market: 3
 
    #### 3. StockGuide
 
@@ -221,11 +221,11 @@ If we look at [Figure 1](https://github.com/ssp4all/stock-prediction-evaluation/
 | :------------------------------------------------------------------------------------------: |
 |       _Figure 23: StockGuide Ratings of people not familiar with stock market at all_        |
 
-    Again, we see that people who actually are familiar with the stock market rate the product more highly than the others.
+   Again, we see that people who actually are familiar with the stock market rate the product more highly than the others.
 
-    Mean rating with people who are **familiar** with stock market: 3.833
+   Mean rating with people who are **familiar** with stock market: 3.833
 
-    Mean rating with people who are **not familiar** with the stock market: 1.5
+   Mean rating with people who are **not familiar** with the stock market: 1.5
 
 Here, in all of the 3 cases, we see that people who have some familiarity with the stock market have rated all the products more highly than people who do not. This is an interesting result, it shows that people rate higher when they are more familiar. Also, the more interesting result is that the mean rating for the "people who are familiar" is exactly the same across all the 3 systems, but the mean rating for "people who are not familiar" is not the same for the native solution (StockGuide) vs the market solutions. Infact, the mean of the native solution is _half_ the mean rating of the market solution, among the non-familiar group. This shows that such people looked more at the UI elements than they looked at the predictions that the native solution offered.
 
