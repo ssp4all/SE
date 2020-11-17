@@ -95,7 +95,7 @@ After using all 3 platforms for predicting stock trends, we asked the users how 
 |:--:| 
 | *Recommendation rating for Stock Predictor* |
 
-| ![Figure 5](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/avg_score.png) | 
+| ![Figure 5](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/avg_score_rating.png) | 
 |:--:| 
 | *Comparison of average rating between the 3 platforms* |
 
