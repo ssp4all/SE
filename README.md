@@ -49,13 +49,11 @@ This is a repository made as part of the curriculum at NC State for the course C
 9. Now to open the site you just pushed type `heroku open`.
 ## Materials
 
-First, each user was asked to fill the pre-survey form to gauge how much they are used to with the AI stock finder context. Later users were asked to register themselves on the Application we deployed on Heroku so they can perform certain tasks that were described in the tail of the README file. The previous step was repeated for the other two popular applications named Wallet Investor, AIStockFinder. After this user-filled post-experiment survey to gauge our application in terms of ease of use, user experience, etc.
-
 Below are the tools used to perform anonymous experiments
 
 - Deployed application: [App](https://radiant-falls-10905.herokuapp.com/)
 - Platform used to deploy App: Heroku
-- Project 3 GitHub Repository: [GitHub](https://github.com/git-ankit/MovieRecommender)
+- Project 3 GitHub Repository: [GitHub](https://github.com/lokesh45/StockPrediction)
 - For collecting responses: [Google form](https://docs.google.com/forms/d/e/1FAIpQLSfrOcLyx1ZxUexelyc2YJZB9imcJUHoP9oH8zVcHtOkJD-VYQ/viewform?usp=sf_link)
 - Metrics used: [Test plan sheet](https://docs.google.com/spreadsheets/d/1rQDUvgM1uNTLeklLOQzoprsNrLaTmgU-nL8uw30S_xw/edit?usp=sharing)
 - Tool used to setup meeting: [Zoom](https://zoom.us/)
