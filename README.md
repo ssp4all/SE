@@ -49,13 +49,11 @@ This is a repository made as part of the curriculum at NC State for the course C
 9. Now to open the site you just pushed type `heroku open`.
 ## Materials
 
-First, each user was asked to fill the pre-survey form to gauge how much they are used to with the AI stock finder context. Later users were asked to register themselves on the Application we deployed on Heroku so they can perform certain tasks that were described in the tail of the README file. The previous step was repeated for the other two popular applications named Wallet Investor, AIStockFinder. After this user-filled post-experiment survey to gauge our application in terms of ease of use, user experience, etc.
-
 Below are the tools used to perform anonymous experiments
 
 - Deployed application: [App](https://radiant-falls-10905.herokuapp.com/)
 - Platform used to deploy App: Heroku
-- Project 3 GitHub Repository: [GitHub](https://github.com/git-ankit/MovieRecommender)
+- Project 3 GitHub Repository: [GitHub](https://github.com/lokesh45/StockPrediction)
 - For collecting responses: [Google form](https://docs.google.com/forms/d/e/1FAIpQLSfrOcLyx1ZxUexelyc2YJZB9imcJUHoP9oH8zVcHtOkJD-VYQ/viewform?usp=sf_link)
 - Metrics used: [Test plan sheet](https://docs.google.com/spreadsheets/d/1rQDUvgM1uNTLeklLOQzoprsNrLaTmgU-nL8uw30S_xw/edit?usp=sharing)
 - Tool used to setup meeting: [Zoom](https://zoom.us/)
@@ -77,9 +75,29 @@ In total there were 9 participants, and we have responses from 8 of them. One of
 
 Below you can find the responses of the 8 participants.
 ### We asked about their familarity of the stock markets.
-![Figure 1](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/1.PNG)
+| ![Figure 1](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/1.PNG) | 
+|:--:| 
+| *Figure 1* |
 
-## Analysis
+
+### Analyzing the Recommendation Ratings.
+After using all 3 platforms for predicting stock trends, we asked the users how likely are they to recommend each of the apps. This metric helps us understand the overall perception of the user. Following are the results:
+
+| ![Figure 2](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/Ai_Stock_finder.png) | 
+|:--:| 
+| *Figure 2* |
+
+| ![Figure 3](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/Wallet_investor.png) | 
+|:--:| 
+| *Figure 3* |
+
+| ![Figure 4](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/Stock_prediction.png) | 
+|:--:| 
+| *Figure 4* |
+
+| ![Figure 5](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/avg_score.png) | 
+|:--:| 
+| *Figure 5* |
 
 Looking at the responses of the google form that were used during the experiment with lab rats, and performing some analysis, we were able to calculate correlation between "How likely an app would be recommended to a friend ?" and 3 other parameters. 
 
@@ -88,6 +106,7 @@ According to the findings (as you can see in the table below):
 ![Correlation between Parameter 1 and Result Parameter](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/corr_AIStock.PNG)
 
 We 
+
 ## Conclusion
 
 TODO
