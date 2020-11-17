@@ -99,6 +99,8 @@ After using all 3 platforms for predicting stock trends, we asked the users how 
 |:--:| 
 | *Comparison of average rating between the 3 platforms* |
 
+
+### Correlation between parameters. 
 Looking at the responses of the google form that were used during the experiment with lab rats, and performing some analysis, we were able to calculate correlation between "How likely an app would be recommended to a friend ?" and 3 other parameters. 
 
 Parameter 1 : "Ease of Use"  
@@ -107,8 +109,8 @@ Parameter 3 : "Were you statisfied with the range of stocks provided?"
 Result Parameter : "How likely are you to recommend this application to friends?"  
 
 According to the findings (as you can see in the table below):  
-|   Correlation between Parameter 1 and Result Parameter    |
-| ![Figure 14](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/14.png) | 
+
+| ![Figure 14:Correlation between Parameter 1 and Result Parameter](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/14.PNG) | 
 |:--:| 
 | *Figure 14* |
 
