@@ -108,7 +108,7 @@ Wallet Investor has an average score of 3.5.
 
 From the above ratings of market solutions: **AI Stock Finder** and **Wallet Investor**, you can see that all ratings are in the range of 3-5 indicating no critical reviews. This is expected as these are market solutions specifically made to cater to the needs of the user.
 
-### These are the feelings about for Stock Predictor
+### These are the feelings about for Stock Guide
 
 | ![Figure 10](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/10.PNG) |
 | :------------------------------------------------------------------------------------------: |
@@ -126,9 +126,9 @@ From the above ratings of market solutions: **AI Stock Finder** and **Wallet Inv
 | :--------------------------------------------------------------------------------------------: |
 | _Figure 13: Recommendation - Less likely to get recommendation over existing stock predictors_ |
 
-Stock predictor developed by received avg score of 3 and a median of 4 with one score of 1 and a total 4 scores of 4.
+Stock Guide received avg score of 3 and a median of 4 with one score of 1 and a total 4 scores of 4.
 
-The ratings for Stock Predictor show mixed reviews. 3 ratings are in the range of 1-2, which comprises of 37.5% of the experiment reviewer pool while the rest 62.5% were inclined to use this application with a rating bracket of 4-5. This can partly be attributed to the ease of use of our platform. Users are less inclined to use a platform if they have difficulty navigating the platform intuitively. As we can see from the Ease of use Pie chart for Stock Predictor, only 37.5% found it easy to use while it 50% for AI Stock finder. This implies that we still have more scope in improving our platform's frontend and make it more user friendly.
+The ratings for Stock Guide show mixed reviews. 3 ratings are in the range of 1-2, which comprises of 37.5% of the experiment reviewer pool while the rest 62.5% were inclined to use this application with a rating bracket of 4-5. This can partly be attributed to the ease of use of our platform. Users are less inclined to use a platform if they have difficulty navigating the platform intuitively. As we can see from the Ease of use Pie chart for Stock Guide, only 37.5% found it easy to use while it 50% for AI Stock finder. This implies that we still have more scope in improving our platform's frontend and make it more user friendly.
 
 ## Analysis
 
@@ -171,7 +171,7 @@ After using all 3 platforms for predicting stock trends, we asked the users how 
 | :--------------------------------------------------------------------------------------------------------: |
 |                    _Figure 17: Comparison of an average rating between the 3 platforms_                    |
 
-Seems like a tie between AI Stock finder and Wallet investor with an average score of 3.5 and Stock predictor has a score of 3.25.
+Seems like a tie between AI Stock finder and Wallet investor with an average score of 3.5 and Stock Guide has a score of 3.25.
 
 Although our platform has mixed reviews, the average rating bar chart shown above tells otherwise. Our application only falls behind by a little in comparison with the market solutions.
 
