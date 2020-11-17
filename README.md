@@ -12,15 +12,15 @@ This is a repository made as part of the curriculum at NC State for the course C
 
 ## Method: Test Plan
 
-- Go to [TestPlan](https://docs.google.com/spreadsheets/d/1rQDUvgM1uNTLeklLOQzoprsNrLaTmgU-nL8uw30S_xw/edit#gid=632817659) spreadsheet.
-- Assign keys to each user.
-- Record the data generated from the participant. Each participant will perform following activities.
-- Analyse the project based on Ease of use, Accuracy, Cost, Range of choice.
-- Compare current project with other tools available online (Wallet Investor, AIStockFinder)
-- Report bugs(if found)
-- Review the project on scale 1(Low) to 5(High).
-- Utilize the data and analyse the feedback received from each participant.
-- Generate aggregated rating for the entire project based on Ease of use, Accuracy, Cost, Range of choice.
+1. Get around 8 to 10 participants to test three websites: [Wallet Investor](https://walletinvestor.com/), [AIStockFinder](https://www.aistockfinder.com/) and [the app we are testing](https://radiant-falls-10905.herokuapp.com).
+2. Assign keys to each user.
+3. Record the data generated from the participant. Each participant will perform following activities.
+4. Analyse the project based on Ease of use, Accuracy, Cost, Range of choice.
+5. Compare current project with other real-life market solutions available online (for this project, they are Wallet Investor, AIStockFinder)
+6. Report bugs(if found)
+7. Review the project on scale 1(Low) to 5(High).
+8. Utilize the data and analyse the feedback received from each participant. They will be stored using this [google form](https://docs.google.com/forms/d/e/1FAIpQLSfrOcLyx1ZxUexelyc2YJZB9imcJUHoP9oH8zVcHtOkJD-VYQ/viewform).
+9. Generate aggregated rating for the entire project based on Ease of use, Accuracy, Cost, Range of choice.
 
 ## How to setup: from cloning to deploying on Heroku
 
