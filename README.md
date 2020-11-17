@@ -110,6 +110,49 @@ Seems like a tie between AI Stock finder and Wallet investor with avg score of 3
 
 Although our platform has mixed reviews, the average rating bar chart shown above tells otherwise. Our application only falls behind by a little in comparision with the market solutions. 
 
+### Analysis for AI Stock finder
+
+| ![Figure 6](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/2.png) | 
+|:--:| 
+| *Ease of use* |
+
+
+| ![Figure 7](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/3.png) | 
+|:--:| 
+| *Accuracy* |
+
+
+| ![Figure 8](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/4.png) | 
+|:--:| 
+| *Satisfaction* |
+
+| ![Figure 9](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/5.png) | 
+|:--:| 
+| *Recommnedation* |
+
+### Analysis for Wallet Inversor
+
+| ![Figure 10](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/6.png) | 
+|:--:| 
+| *Ease of use* |
+
+
+| ![Figure 11](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/7.png) | 
+|:--:| 
+| *Accuracy* |
+
+
+| ![Figure 12](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/8.png) | 
+|:--:| 
+| *Satisfaction* |
+
+| ![Figure 13](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/9.png) | 
+|:--:| 
+| *Recommnedation* |
+
+### Analysis for Stock Predictor
+
+
 ### Correlation between parameters. 
 Looking at the responses of the google form that were used during the experiment with lab rats, and performing some analysis, we were able to calculate correlation between "How likely an app would be recommended to a friend ?" and 3 other parameters. 
 
@@ -147,14 +190,14 @@ TODO
 
 ## Threats to validity
 
-- ##### Error from the participants
+- #### Error from the participants
     One of the crucial feedback that we wanted was the ranking of the matrics concerning its weightage. We stated in the survey form to choose the option of how users feel about this metric while performing experiments. But some participants ranked all of them with the same number. This can significantly hurt the mean of feedback we received. This changes the overall ranking than what we got previously. Anyways, we can not get a significant result from only 5 rankings and all the means are very close to each other. Future studies on this subject need to take into consideration that users can make errors and to "beta" test their forms before sending out to the participants, so they can find areas that people might misunderstand.
 
-- ##### Fedback from the user
+- #### Fedback from the user
     We could have asked the user who experimented on how we could improve the feedback process or more in detail like what was the most difficult thing use faced or what did they like more.
 
-- ##### Comparision
+- #### Comparision
     To compare the product we have developed we decided to go with two popular websites available in the market which are Wallet Investor, AIStockFinder. As there was no in-depth research behind both options hence, there may be changes the better comparable product might be available in the market.
         
-- ##### Bias
+- #### Bias
     There are chances that for some users, the "Ease of use" starts from a medium, I mean the user has a mindset of giving the lowest value of medium and highest being high. So, for such a kind of user, we should have a normalized rating for each user.
