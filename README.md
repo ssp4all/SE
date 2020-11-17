@@ -112,41 +112,41 @@ Although our platform has mixed reviews, the average rating bar chart shown abov
 
 ### Analysis for AI Stock finder
 
-| ![Figure 6](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/2.png) | 
+| ![Figure 6](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/2.PNG) | 
 |:--:| 
 | *Ease of use* |
 
 
-| ![Figure 7](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/3.png) | 
+| ![Figure 7](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/3.PNG) | 
 |:--:| 
 | *Accuracy* |
 
 
-| ![Figure 8](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/4.png) | 
+| ![Figure 8](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/4.PNG) | 
 |:--:| 
 | *Satisfaction* |
 
-| ![Figure 9](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/5.png) | 
+| ![Figure 9](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/5.PNG) | 
 |:--:| 
 | *Recommnedation* |
 
 ### Analysis for Wallet Inversor
 
-| ![Figure 10](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/6.png) | 
+| ![Figure 10](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/6.PNG) | 
 |:--:| 
 | *Ease of use* |
 
 
-| ![Figure 11](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/7.png) | 
+| ![Figure 11](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/7.PNG) | 
 |:--:| 
 | *Accuracy* |
 
 
-| ![Figure 12](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/8.png) | 
+| ![Figure 12](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/8.PNG) | 
 |:--:| 
 | *Satisfaction* |
 
-| ![Figure 13](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/9.png) | 
+| ![Figure 13](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/9.PNG) | 
 |:--:| 
 | *Recommnedation* |
 
