@@ -79,7 +79,7 @@ Below you can find the responses of the 8 participants.
 |:--:| 
 | *Figure 1: Indicates that the candidates were kinda aware of stock market which makes evaluation much easier* |
 
-### Analysis for AI Stock finder
+### These are the feelings about AI Stock finder
 
 | ![Figure 2](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/2.PNG) | 
 |:--:| 
@@ -98,8 +98,8 @@ Below you can find the responses of the 8 participants.
 | ![Figure 5](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/5.PNG) | 
 |:--:| 
 | *Figure 5: Recommendation - Use likely to recommend this application* |
-
-### Analysis for Wallet Investor
+From above graph, it can seen that testers liked AI Stock Finder application which has average score of 3.5.
+### These are the feelings about for Wallet Investor
 
 | ![Figure 6](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/6.PNG) | 
 |:--:| 
@@ -118,9 +118,11 @@ Below you can find the responses of the 8 participants.
 | ![Figure 9](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/9.PNG) | 
 |:--:| 
 | *Figure 9: Recommendation - Use are less likey recommend this app over AI Stock App* |
+Wallet Investor has average score of 3.5.
 
+From the above ratings of market solutions: **AI Stock Finder** and **Wallet Investor**, you can see that all ratings are in the range of 3-5 indicating no critical reviews. This is expected as these are market solutions specifically made to cater the needs of user. 
 
-### Analysis for Stock Predictor
+### These are the feelings about for Stock Predictor
 | ![Figure 10](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/10.PNG) | 
 |:--:| 
 | *Figure 10: Ease of use - More than half tester feel this app has less ease of use* |
@@ -138,43 +140,13 @@ Below you can find the responses of the 8 participants.
 | ![Figure 13](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/13.PNG) | 
 |:--:| 
 | *Figure 13: Recommendation - Less likely to get recommendation over existing Stock predictorsa* |
+Stock predictor developed by received avg score of 3 and median of 4 with one score of 1 and total 4 score of 4.
 
+The ratings for Stock Predictor show mixed reviews. 3 ratings are in the range of 1-2, that comprises of 37.5% of the experiment reviewer pool while the rest 62.5% were inclinded to use this application with a rating bracket of 4-5. This can partly be attributed to the ease of use of our platform. Users are less inclined to use a platform if they have difficulty navigating the platform intuitively. As we can see from the Ease of use Pie chart for Stock Predictor, only 37.5% found it easy to use while it 50% for AI Stock finder. This implies that we still have more scope in improving our platform's frontend and make it more user friendly.
 
 
 
 ## Analysis
-### Analyzing the Recommendation Ratings.
-After using all 3 platforms for predicting stock trends, we asked the users how likely are they to recommend each of the apps. This metric helps us understand the overall perception of the user. Following are the results:
-
-### We asked how they feel about AIStockFinder
-| ![Figure 2](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/Ai_Stock_finder.png) | 
-|:--:| 
-| *Recommendation rating for AI Stock Finder* |  
-From above graph, it can seen that testers liked AI Stock Finder application which has average score of 3.5.
-
-| ![Figure 3](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/Wallet_investor.png) | 
-|:--:| 
-| *Recommendation rating for Wallet Investor* |  
-Wallet Investor has average score of 3.5.
-
-From the above ratings of market solutions: **AI Stock Finder** and **Wallet Investor**, you can see that all ratings are in the range of 3-5 indicating no critical reviews. This is expected as these are market solutions specifically made to cater the needs of user. 
-
-| ![Figure 4](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/Stock_prediction.png) | 
-|:--:| 
-| *Recommendation rating for Stock Predictor* |  
-Stock predictor developed by received avg score of 3 and median of 4 with one score of 1 and total 4 score of 4.
-
-The ratings for Stock Predcitor show mixed reviews. 3 ratings are in the range of 1-2, that comprises of 37.5% of the experiment reviewer pool while the rest 62.5% were inclinded to use this application with a rating bracket of 4-5. This can partly be attributed to the ease of use of our platform. Users are less inclined to use a platform if they have difficulty navigating the platform intuitively. As we can see from the Ease of use Pie chart for Stock Predictor, only 37.5% found it easy to use while it 50% for AI Stock finder. This implies that we still have more scope in improving our platform's frontend and make it more user friendly.
-
-| ![Figure 5](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/avg_score_rating.png) | 
-|:--:| 
-| *Comparison of average rating between the 3 platforms* |
-Seems like a tie between AI Stock finder and Wallet investor with avg score of 3.5 and Stock predictor has score of 3.
-
-Although our platform has mixed reviews, the average rating bar chart shown above tells otherwise. Our application only falls behind by a little in comparision with the market solutions. 
-
-
-
 ### Correlation between parameters. 
 Looking at the responses of the google form that were used during the experiment with lab rats, and performing some analysis, we were able to calculate correlation between "How likely an app would be recommended to a friend ?" and 3 other parameters. 
 
@@ -205,6 +177,15 @@ In our case - StockGuide, we see a positive correlation between "Satisfaction" a
 
 Nevertheless, we would be able to assess the contributing factors towards the success of this application using this correlation study.
 
+### Analyzing the Recommendation Ratings.
+After using all 3 platforms for predicting stock trends, we asked the users how likely are they to recommend each of the apps. This metric helps us understand the overall perception of the user. Following are the results:
+
+| ![Figure 17](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/avg_score_rating.png) | 
+|:--:| 
+| *Figure 17: Comparison of average rating between the 3 platforms* |
+Seems like a tie between AI Stock finder and Wallet investor with avg score of 3.5 and Stock predictor has score of 3.
+
+Although our platform has mixed reviews, the average rating bar chart shown above tells otherwise. Our application only falls behind by a little in comparision with the market solutions.
 
 ## Conclusion
 
