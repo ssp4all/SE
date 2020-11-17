@@ -114,60 +114,60 @@ Although our platform has mixed reviews, the average rating bar chart shown abov
 
 | ![Figure 6](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/2.PNG) | 
 |:--:| 
-| *Ease of use* |
+| *Ease of use - AI Stock finder is more like a easy-medium to use* |
 
 
 | ![Figure 7](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/3.PNG) | 
 |:--:| 
-| *Accuracy* |
+| *Accuracy - More than half testers found application accurate* |
 
 
 | ![Figure 8](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/4.PNG) | 
 |:--:| 
-| *Satisfaction* |
+| *Satisfaction - The use mostly saw stocks for popular companies * |
 
 | ![Figure 9](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/5.PNG) | 
 |:--:| 
-| *Recommendation* |
+| *Recommendation - Use likely to recommend this application* |
 
-### Analysis for Wallet Inversor
+### Analysis for Wallet Investor
 
 | ![Figure 10](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/6.PNG) | 
 |:--:| 
-| *Ease of use* |
+| *Ease of use - Wallet Investor seems like a moderate in ease of use* |
 
 
 | ![Figure 11](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/7.PNG) | 
 |:--:| 
-| *Accuracy* |
+| *Accuracy - More sophisatication comes with accuracy, fair enough i guess* |
 
 
 | ![Figure 12](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/8.PNG) | 
 |:--:| 
-| *Satisfaction* |
+| *Satisfaction - Again tester went for popular company's stocks* |
 
 | ![Figure 13](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/9.PNG) | 
 |:--:| 
-| *Recommendation* |
+| *Recommendation - Use are less likey recommend this app over AI Stock App* |
 
 ### Analysis for Stock Predictor
 | ![Figure 14](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/10.PNG) | 
 |:--:| 
-| *Ease of use* |
+| *Ease of use - More than half tester feel this app has less ease of use* |
 
 
 | ![Figure 15](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/11.PNG) | 
 |:--:| 
-| *Accuracy* |
+| *Accuracy - Accurate enough...* |
 
 
 | ![Figure 16](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/12.PNG) | 
 |:--:| 
-| *Satisfaction* |
+| *Satisfaction - Again testes chose popular companies* |
 
 | ![Figure 17](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/13.PNG) | 
 |:--:| 
-| *Recommendation* |
+| *Recommendation - Less likely to get recommendation over existing Stock predictorsa* |
 
 ### Correlation between parameters. 
 Looking at the responses of the google form that were used during the experiment with lab rats, and performing some analysis, we were able to calculate correlation between "How likely an app would be recommended to a friend ?" and 3 other parameters. 
