@@ -81,8 +81,13 @@ Below you can find the responses of the 8 participants.
 
 ## Analysis
 
-IMPORTANT TODO
+Looking at the responses of the google form that were used during the experiment with lab rats, and performing some analysis, we were able to calculate correlation between "How likely an app would be recommended to a friend ?" and 3 other parameters. 
 
+According to the findings (as you can see in the table below):
+
+![Correlation between Parameter 1 and Result Parameter](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/corr_AIStock.PNG)
+
+We 
 ## Conclusion
 
 TODO
