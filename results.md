@@ -179,7 +179,7 @@ Although our platform has mixed reviews, the average rating bar chart shown abov
 
 If we look at [Figure 1](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/results.md#we-asked-about-their-familiarity-with-the-stock-markets), we can see that no one had done stock trading before, but 75% of the people knew atleast something about the stock market before they were tested. 25% of the people were not familiar at all. We will now look at these two groups and see how they rated the different systems and if there was any difference.
 
-    1. #### AIStockFinder
+   #### 1. AIStockFinder
 
 | ![Figure 18](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/18.png) |
 | :------------------------------------------------------------------------------------------: |
@@ -195,7 +195,7 @@ If we look at [Figure 1](https://github.com/ssp4all/stock-prediction-evaluation/
 
     Mean rating with people who are **not familiar** with the stock market: 3
 
-    2. #### WalletInvestor
+   #### 2. WalletInvestor
 
 | ![Figure 20](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/20.png) |
 | :------------------------------------------------------------------------------------------: |
@@ -211,7 +211,7 @@ If we look at [Figure 1](https://github.com/ssp4all/stock-prediction-evaluation/
 
     Mean rating with people who are **not familiar** with the stock market: 3
 
-    3. #### StockGuide
+   #### 3. StockGuide
 
 | ![Figure 22](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/22.png) |
 | :------------------------------------------------------------------------------------------: |
