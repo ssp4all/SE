@@ -110,9 +110,9 @@ Result Parameter : "How likely are you to recommend this application to friends?
 
 According to the findings (as you can see in the table below):  
 
-| ![Figure 14:Correlation between Parameter 1 and Result Parameter](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/14.PNG) | 
+| ![Figure 14](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/14.PNG) | 
 |:--:| 
-| *Figure 14* |
+| *Figure 14:Correlation between Parameter 1 and Result Parameter* |
 
 
 ## Conclusion
