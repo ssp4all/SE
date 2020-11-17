@@ -81,7 +81,27 @@ Below you can find the responses of the 8 participants.
 
 ## Analysis
 
-IMPORTANT TODO
+
+
+### Analyzing the Recommendation Ratings.
+After using all 3 platforms for predicting stock trends, we asked the users how likely are they to recommend each of the apps. This metric helps us understand the overall perception of the user. Following are the results:
+
+| ![Figure 2](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/Ai_Stock_finder.png) | 
+|:--:| 
+| *Figure 2* |
+
+| ![Figure 3](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/Wallet_investor.png) | 
+|:--:| 
+| *Figure 3* |
+
+| ![Figure 4](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/Stock_prediction.png) | 
+|:--:| 
+| *Figure 4* |
+
+| ![Figure 5](https://github.com/ssp4all/stock-prediction-evaluation/blob/main/images/avg_score.png) | 
+|:--:| 
+| *Figure 5* |
+
 
 ## Conclusion
 
